@@ -1,0 +1,1 @@
+Aula 02 do Curso de nivelamento da Universidade Federal do Pará (UFPA) organizado pelo Centro Acadêmico de Sistemas de Informação (CASI) em parceria com o Centro Acadêmico de Ciências da Computação (CACC).
